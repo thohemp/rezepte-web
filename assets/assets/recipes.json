@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "title": "Gyros mit Tsatsiki",
+    "instructions": "Gyros: Fleisch in kleine Stücke schneiden. Mit Olivenöl, 1 Knolle Knoblauch, Thymian und Gewürzen marinieren. Ziehen lassen und in der Zeit Tsasiki zubereiten. Fleisch braten, bis das Wasser raus ist und das Fleisch angeröstet ist, dann salzen. Tsatsiki:  Gurke und zweite Knoblauchknolle zerreiben, Salzen und etwas Zuckern. Ziehen lassen und in der Zeit Fleisch braten. Wasser abgießen, mit Jogurt vermengen. Salz, Pfeffer, Olivenöl und Essig hinzugeben",
+    "ingredients": [
+        {
+            "unit": "g",
+            "amount": 300,
+            "name": "Schweinnacken"
+        },
+        {
+            "unit": "g",
+            "amount": 300,
+            "name": "Schweinebauch"
+        },
+        {
+            "unit": "g",
+            "amount": 200,
+            "name": "Griechischer Jogurt"
+        },
+        {
+            "unit": "",
+            "amount": 0.3,
+            "name": "Gurke"
+        },
+        {
+            "unit": "",
+            "amount": 2,
+            "name": "Knoblauchzehen"
+        },
+        {
+            "unit": "",
+            "amount": 1,
+            "name": "Zwiebel"
+        }
+    ]
+}
+
